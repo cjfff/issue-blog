@@ -1,7 +1,7 @@
 用issues的形式书写blog
 
 ### 文章笔记
-####[2018/11/7](https://github.com/cjfff/issue-blog/issues/4)
+#### [2018/11/7](https://github.com/cjfff/issue-blog/issues/4)
 
 ### 技术文章
 
