@@ -11,7 +11,7 @@
 #### [快应用初尝试](https://github.com/cjfff/issue-blog/issues/2)
 
 ### 项目汇总遇到的问题解决
-#### [VUE-权限指令中的bug]
+#### [VUE-权限指令中的bug]()
 
 ### 优化
 #### [图片打包(精灵图的制作与使用)](https://github.com/cjfff/issue-blog/issues/3)
