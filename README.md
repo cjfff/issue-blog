@@ -11,6 +11,7 @@
 #### [快应用初尝试](https://github.com/cjfff/issue-blog/issues/2)
 
 ### 项目汇总遇到的问题解决
+#### [-webkit-box-orient: vertical在项目中失效问题](https://github.com/cjfff/issue-blog/issues/7)
 
 ### 优化
 #### [图片打包(精灵图的制作与使用)](https://github.com/cjfff/issue-blog/issues/3)
