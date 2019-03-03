@@ -1,11 +1,6 @@
 ## 用issues的形式书写blog
 
 
-## 文章笔记
-1. [2018/11/7 优化js的if/else/switch, Vue的生命周期梳理,  本地mock](https://github.com/cjfff/issue-blog/issues/4) 
-2. [2018-11-8 Promise队列机制，url中 # 符号的作用](https://github.com/cjfff/issue-blog/issues/5)
-
-
 ## 项目中问题解决
 1. [-webkit-box-orient: vertical在项目中失效问题](https://github.com/cjfff/issue-blog/issues/7)
 2. [元素高度自动撑开，如何使用 transition 添加过渡动画](https://github.com/cjfff/issue-blog/issues/9)
