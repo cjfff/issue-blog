@@ -12,7 +12,7 @@
 4. [浅析 Curry in JavaScript](https://github.com/cjfff/issue-blog/issues/14)
 5. [通过 题目 deepCount 理解深度优先以及广度优先](https://github.com/cjfff/issue-blog/issues/15)
 6. [call apply 不同之处, 模拟实现，以及性能问题](https://github.com/cjfff/issue-blog/issues/16)
-
+7. [箭头函数与普通函数区别](https://github.com/cjfff/issue-blog/issues/17)
 
 ## Vue系列
 
