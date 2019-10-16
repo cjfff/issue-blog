@@ -22,7 +22,7 @@
 
 ## 新技术尝试
 1. [快应用初尝试](https://github.com/cjfff/issue-blog/issues/2)
-
+2. [lerna 单仓库管理](https://github.com/cjfff/issue-blog/issues/18)
 
 ## 资源收集
 1. [各种收藏资源](https://github.com/cjfff/issue-blog/issues/12)
