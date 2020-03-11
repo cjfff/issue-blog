@@ -1,3 +1,5 @@
+博客已经迁移至语雀  https://www.yuque.com/ubdme4/ccc
+
 ## 用issues的形式书写blog
 
 
